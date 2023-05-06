@@ -14,6 +14,7 @@ Add your timetable
 Execute the program
 
 # CODE
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -107,9 +108,11 @@ Execute the program
 </table>
 </body>
 </html>
+```
 
 # OUPUT
-![slot 1](https://user-images.githubusercontent.com/122046208/236611003-279cd310-f45a-4fde-8c63-1d2d5e781d23.png)
+![slot 1](https://user-images.githubusercontent.com/122046208/236611262-37a9fcb4-4a90-4230-b696-a76dbb8097a7.png)
+
 
 
 
